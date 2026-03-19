@@ -26,4 +26,4 @@ jobs:
     with:
       kmi: ${{ matrix.kmi }}
       ddk_release: '20251016'
-      module_name: 'android-wuwa'
+      module_name: 'wuwa'
